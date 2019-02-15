@@ -3,7 +3,8 @@ BACKBLAZE B2 Storage for Django
 
 BackBlaze B2 Storage for django.
 
-###installation
+### Installation
+
 via PIP:
 
     pip install django-backblazeb2-storage
@@ -13,7 +14,7 @@ Manual:
 clone this repo locally using `git clone git@github.com:royendgel/django-backblazeb2-storage.git`
 and run `python setup.py install`
 
-###Usage
+### Usage
 
 Set this in ypour settings (usualy settings.py)
 
